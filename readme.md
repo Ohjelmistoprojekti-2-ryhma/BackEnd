@@ -1,2 +1,2 @@
-Kalenteri sovellus, jossa on kartta ja AI-ominaisuuksia.
+Kalenteri sovellus, jossa on kartta.
 Käytetyt teknologiat: Java
